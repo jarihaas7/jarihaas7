@@ -1,9 +1,5 @@
 # Jari Haas
-
-Mechanical Engineer Student (UFSM), InfTech (Senac RS)
-Working on control systems and robotics with emphasis on real hardware, not just simulation.
-
-Reach me:
+Working on control systems and robotics. Reach me on:
 - Email: [jarihaas7@gmail.com](mailto:jarihaas7@gmail.com)
 - LinkedIn: [jarihaas](linkedin.com/in/jarihaas)
 
